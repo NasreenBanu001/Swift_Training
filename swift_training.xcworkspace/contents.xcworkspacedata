@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:function.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-else.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Operator.playground">
+   </FileRef>
+   <FileRef
+      location = "group:variable.playground">
+   </FileRef>
+</Workspace>
